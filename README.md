@@ -112,6 +112,8 @@ To deploy the website to [www.thecityvarsity.co.uk](https://www.thecityvarsity.c
 3. Push the "main" branch to deploy:  
   `git push`
 
+The GitHub Action will then run automatically to deploy the site.
+
 ### Changing the Domain Name
 
 See the GitHub Pages [docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) for information on how to change the domain name. Note that the [CNAME](./CNAME) file must be updated to include the new domain.
