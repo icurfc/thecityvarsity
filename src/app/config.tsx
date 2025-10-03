@@ -6,7 +6,7 @@ export const EDITION = "VIII"
 export const TITLE = "The Fennex City Varsity " + EDITION
 export const MATCH_DATE = "08/03/25"
 export const TICKET_LINK = "https://fatso.ma/1jv1"
-export const SHOW_FATSOMA_WIDGET = true
+export const SHOW_FATSOMA_WIDGET = false
 export const PROGRAMME_LINK = "https://drive.google.com/file/d/1KIjlmn9wjPeKc7CdxH3PfEuEtcPrc6iq/view?usp=sharing"
 
 export const CONTACT_EMAIL = "rugby@ic.ac.uk"
