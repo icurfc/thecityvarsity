@@ -2,9 +2,9 @@
   IMPORTANT DATA TO UPDATE ANNUALLY
 */
 
-export const EDITION = "VIII"
+export const EDITION = "IX"
 export const TITLE = "The Fennex City Varsity " + EDITION
-export const MATCH_DATE = "08/03/25"
+export const MATCH_DATE = "07/03/26"
 export const TICKET_LINK = "https://fatso.ma/1jv1"
 export const SHOW_FATSOMA_WIDGET = false
 export const PROGRAMME_LINK = "https://drive.google.com/file/d/1KIjlmn9wjPeKc7CdxH3PfEuEtcPrc6iq/view?usp=sharing"
@@ -16,9 +16,9 @@ export const AFTERPARTY_TEXT = "" // "Celebrate with the players at Tiger Tiger!
 
 // Note: If location changes, the about text in app/page.tsx should also be changed as it mentions Rosslyn Park
 export const LOCATION = {
-  name: "Rosslyn Park",
-  address: "Rosslyn Park Rugby Club, London, England SW15 5LB, United Kingdom",
-  latlon: [51.4647, -0.2461]
+  name: "London Welsh Rugby Club",
+  address: "Old Deer Park Sports Ground, 187 Kew Road, Richmond, London, England TW9 2AZ, United Kingdom",
+  latlon: [51.4688, -0.2952]
 }
 
 /*

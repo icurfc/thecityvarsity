@@ -40,7 +40,7 @@ export default function Home() {
 
       {AboutText(
         "About The City Varsity", 
-        "The City Varsity is an exhibition rugby match between Imperial College London and London School of Economics, held annually at the world-class facilities of Rosslyn Park RFC. It is a completely student-led initiative and aims to remain an event created by students, for students. It has proven to be a great success in previous years with hundreds of spectators attending to witness both men’s and women’s game and the trophies - JP Morgan Shield and the Rees Rawlings Cup – being awarded."
+        "The City Varsity is an exhibition rugby match between Imperial College London and London School of Economics, held annually at the world-class facilities of London Welsh RFC. It is a completely student-led initiative and aims to remain an event created by students, for students. It has proven to be a great success in previous years with hundreds of spectators attending to witness both men’s and women’s game and the trophies - JP Morgan Shield and the Rees Rawlings Cup – being awarded."
       )}
 
       {/* Optional Fatsoma Widget. See fatsomaWidget.tsx for the widget URL */}
