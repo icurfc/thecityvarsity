@@ -69,26 +69,26 @@ export default function Home() {
         TimelineItem(
           "Gates Open",
           "Come early to save yourself a seat at the stands and watch our teams warm up as you enjoy a selection of delicious takeaway food on site",
-          "4.30pm",
+          "11am",
           LOCATION.name,
           MATCH_DATE.replaceAll(".", "/")
         ),
         TimelineItem(
           "Women's Match",
-          "Support your team as the women from Imperial and LSE clash on the grass of Rosslyn Park",
-          "5pm - 6.30pm",
+          "Support your team as the women from Imperial and LSE clash on the grass of Old Deer Park",
+          "1pm - 2:30pm",
           LOCATION.name
         ),
         TimelineItem(
           "Men's Match",
           "See who comes out on top in this year's edition of the biggest rivalry among London's unis",
-          "7pm - 9pm",
+          "3pm - 5pm",
           LOCATION.name
         ),
         TimelineItem(
           "Award Ceremony",
           "The crowning of the winners",
-          "9.15pm",
+          "5:15pm",
           LOCATION.name
         ),
         /*
