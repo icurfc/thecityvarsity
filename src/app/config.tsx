@@ -5,7 +5,7 @@
 export const EDITION = "IX"
 export const TITLE = "The Fennex City Varsity " + EDITION
 export const MATCH_DATE = "07/03/26"
-export const TICKET_LINK = "https://fatso.ma/1jv1"
+export const TICKET_LINK = "https://www.fatsoma.com/e/fi6v5mn2/the-city-varsity-ix"
 export const SHOW_FATSOMA_WIDGET = false
 export const PROGRAMME_LINK = "https://drive.google.com/file/d/1KIjlmn9wjPeKc7CdxH3PfEuEtcPrc6iq/view?usp=sharing"
 
