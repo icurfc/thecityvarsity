@@ -81,7 +81,7 @@ export default function Home() {
         ),
         TimelineItem(
           "Men's Match",
-          "See who comes out on top in this year's edition of the biggest rivalry among London's unis",
+          "See who comes out on top as Imperial face a surprise guest.",
           "3pm - 5pm",
           LOCATION.name
         ),
