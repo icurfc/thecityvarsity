@@ -81,7 +81,7 @@ export default function Home() {
         ),
         TimelineItem(
           "Men's Match",
-          "See who comes out on top as Imperial face a surprise guest.",
+          "See who comes out on top as Imperial face Oxford Greyhounds.",
           "3pm - 5pm",
           LOCATION.name
         ),
